@@ -1,0 +1,277 @@
+{
+  "factures": [
+    {
+      "id": 5,
+      "numero": "6843586",
+      "description": "dzqdzqdzq",
+      "date": "2025-06-18",
+      "clientId": 3,
+      "items": [
+        {
+          "prestation": "dzq",
+          "quantite": 7,
+          "montantUnitaire": 0.11
+        },
+        {
+          "prestation": "dzq",
+          "quantite": 6,
+          "montantUnitaire": 0.03
+        }
+      ],
+      "remise": 0,
+      "dejaPaye": 0
+    },
+    {
+      "id": 6,
+      "numero": "6843586",
+      "description": "dzqdzqdzq",
+      "date": "2025-06-18",
+      "clientId": 3,
+      "items": [
+        {
+          "prestation": "dzq",
+          "quantite": 7,
+          "montantUnitaire": 0.11
+        },
+        {
+          "prestation": "dzq",
+          "quantite": 6,
+          "montantUnitaire": 0.03
+        }
+      ],
+      "remise": 0,
+      "dejaPaye": 0
+    },
+    {
+      "id": 7,
+      "numero": "6843586",
+      "description": "dzqdzqdzq",
+      "date": "2025-06-18",
+      "clientId": 3,
+      "items": [
+        {
+          "prestation": "dzq",
+          "quantite": 7,
+          "montantUnitaire": 0.11
+        },
+        {
+          "prestation": "dzq",
+          "quantite": 6,
+          "montantUnitaire": 0.03
+        }
+      ],
+      "remise": 0,
+      "dejaPaye": 0
+    },
+    {
+      "id": 8,
+      "numero": "6843586",
+      "description": "dzqdzqdzq",
+      "date": "2025-06-18",
+      "clientId": 3,
+      "items": [
+        {
+          "prestation": "dzq",
+          "quantite": 7,
+          "montantUnitaire": 0.11
+        },
+        {
+          "prestation": "dzq",
+          "quantite": 6,
+          "montantUnitaire": 0.03
+        }
+      ],
+      "remise": 0,
+      "dejaPaye": 0
+    },
+    {
+      "id": 9,
+      "numero": "6843586",
+      "description": "dzqdzqdzq",
+      "date": "2025-06-18",
+      "clientId": 3,
+      "items": [
+        {
+          "prestation": "dzq",
+          "quantite": 7,
+          "montantUnitaire": 0.11
+        },
+        {
+          "prestation": "dzq",
+          "quantite": 6,
+          "montantUnitaire": 0.03
+        }
+      ],
+      "remise": 0.02,
+      "dejaPaye": 0.02
+    },
+    {
+      "id": 10,
+      "numero": "6843586",
+      "description": "dzqdzqdzq",
+      "date": "2025-06-18",
+      "clientId": 3,
+      "items": [
+        {
+          "prestation": "dzq",
+          "quantite": 7,
+          "montantUnitaire": 0.11
+        },
+        {
+          "prestation": "dzq",
+          "quantite": 6,
+          "montantUnitaire": 0.03
+        }
+      ],
+      "remise": 0.02,
+      "dejaPaye": 0.02
+    },
+    {
+      "id": 11,
+      "numero": "6843586",
+      "description": "dzqdzqdzq",
+      "date": "2025-06-18",
+      "clientId": 3,
+      "items": [
+        {
+          "prestation": "dzq",
+          "quantite": 7,
+          "montantUnitaire": 0.11
+        },
+        {
+          "prestation": "dzq",
+          "quantite": 6,
+          "montantUnitaire": 0.03
+        }
+      ],
+      "remise": 0.02,
+      "dejaPaye": 0.02
+    },
+    {
+      "id": 12,
+      "numero": "6843586",
+      "description": "dzqdzqdzq",
+      "date": "2025-06-18",
+      "clientId": 3,
+      "items": [
+        {
+          "prestation": "dzq",
+          "quantite": 7,
+          "montantUnitaire": 0.11
+        },
+        {
+          "prestation": "dzq",
+          "quantite": 6,
+          "montantUnitaire": 0.03
+        }
+      ],
+      "remise": 0.02,
+      "dejaPaye": 0.02
+    },
+    {
+      "id": 13,
+      "numero": "6843586",
+      "description": "dzqdzqdzq",
+      "date": "2025-06-18",
+      "clientId": 3,
+      "items": [
+        {
+          "prestation": "dzq",
+          "quantite": 7,
+          "montantUnitaire": 0.11
+        },
+        {
+          "prestation": "dzq",
+          "quantite": 6,
+          "montantUnitaire": 0.03
+        }
+      ],
+      "remise": 0.02,
+      "dejaPaye": 0.02
+    },
+    {
+      "id": 14,
+      "numero": "6843586",
+      "description": "dzqdzqdzq",
+      "date": "2025-06-18",
+      "clientId": 3,
+      "items": [
+        {
+          "prestation": "dzq",
+          "quantite": 7,
+          "montantUnitaire": 0.11
+        },
+        {
+          "prestation": "dzq",
+          "quantite": 6,
+          "montantUnitaire": 0.03
+        }
+      ],
+      "remise": 0.02,
+      "dejaPaye": 0.02
+    },
+    {
+      "id": 15,
+      "numero": "6843586",
+      "description": "dzqdzqdzq",
+      "date": "2025-06-18",
+      "clientId": 3,
+      "items": [
+        {
+          "prestation": "dzq",
+          "quantite": 7,
+          "montantUnitaire": 0.11
+        },
+        {
+          "prestation": "dzq",
+          "quantite": 6,
+          "montantUnitaire": 0.03
+        }
+      ],
+      "remise": 0.02,
+      "dejaPaye": 0.02
+    },
+    {
+      "id": 16,
+      "numero": "6843586",
+      "description": "dzqdzqdzq",
+      "date": "2025-06-18",
+      "clientId": 3,
+      "items": [
+        {
+          "prestation": "dzq",
+          "quantite": 7,
+          "montantUnitaire": 0.11
+        },
+        {
+          "prestation": "dzq",
+          "quantite": 6,
+          "montantUnitaire": 0.03
+        }
+      ],
+      "remise": 0.02,
+      "dejaPaye": 0.02
+    },
+    {
+      "id": 17,
+      "numero": "84564867693566",
+      "description": "dzgesgg",
+      "date": "2025-06-17",
+      "clientId": 1,
+      "items": [
+        {
+          "prestation": "efssfsf",
+          "quantite": 1,
+          "montantUnitaire": 0.16
+        },
+        {
+          "prestation": "fesfsef",
+          "quantite": 1,
+          "montantUnitaire": 0.19
+        }
+      ],
+      "remise": 0,
+      "dejaPaye": 0
+    }
+  ]
+}

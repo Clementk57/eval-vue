@@ -1,0 +1,30 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "prenom": "John2",
+      "nom": "Doe",
+      "entreprise": "Acme Corp",
+      "telephone": "01 23 45 67 89",
+      "email": "john.doe@acme.com",
+      "adresse1": "10 Rue de la Paix",
+      "adresse2": "",
+      "codePostal": "75002",
+      "ville": "Paris",
+      "pays": "France"
+    },
+    {
+      "id": 3,
+      "prenom": "clément",
+      "nom": "kontzler",
+      "entreprise": "squaremiled",
+      "telephone": "0640811907",
+      "email": "clement.kontzler@squaremiled.com",
+      "adresse1": "31 rue saint roch",
+      "adresse2": "",
+      "codePostal": "57290",
+      "ville": "fameck",
+      "pays": "France"
+    }
+  ]
+}
